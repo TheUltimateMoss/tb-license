@@ -1,3 +1,3 @@
 # tb-license
-Variation on the GPLv3 license.
-TLDR: it removes the ability to profit from open source code.
+Variation on the MIT license.
+TLDR: hold your horses
